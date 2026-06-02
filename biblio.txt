@@ -1,0 +1,3 @@
+https://www.jakobmaier.at/posts/raytracing/ //Ejemplos de escenas
+https://en.wikipedia.org/wiki/Ray_tracing_(graphics) //Que es el raytracing?
+https://gieseanw.wordpress.com/2012/09/12/finding-external-tangent-points-for-two-circles/ //External tangent of circles
