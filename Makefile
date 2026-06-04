@@ -13,7 +13,7 @@
 NAME = miniRT
 CC = cc
 CFLAGS = -Wall -Wextra -Werror
-SOURCE = 	main.c
+SOURCE = 	main.c events.c
 OBJ = $(SOURCE:.c=.o)
 INCLUDE = mini_rt.h
 LIBFT_DIR = ./libft
